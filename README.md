@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on the myRutgers Mobile App using Flutter<br>
 🌱 I’m currently creating projects with Machine Learning. I also seek to experiment with VR/AR development 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) I am an incoming SWE Intern at GitHub!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-merchan) 
